@@ -1,4 +1,5 @@
 🎵 Spotify Clone
+
 A simple web-based clone of Spotify built using HTML and CSS. This project replicates the visual design of Spotify's user interface, providing a responsive and interactive experience.
 
 [Spotify Clone](https://amankumarsingh-1.github.io/spotify/)
