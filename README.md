@@ -33,13 +33,6 @@ To run the project locally:
 2. Navigate to the project directory: cd spotify
 3. Open project.html in your preferred web browser. You can double-click the project.html file or use a live server extension if you're using a code editor like VS Code.
 
-🤝 Contributing
-Contributions are welcome! If you'd like to enhance the project or fix any issues:
 
-1. Fork the repository.
-2. Create a new branch: git checkout -b feature/YourFeature
-3. Commit your changes: git commit -m 'Add YourFeature'
-4. Push to the branch: git push origin feature/YourFeature
-5. Open a pull request.
 
 
